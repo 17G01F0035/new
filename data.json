@@ -1,0 +1,36 @@
+{
+  "basics":{
+    "photo":"baby2.jpg",
+    "name":"Lakshmi Pillari",
+    "email":"lakshmipillari@gmail.com",
+    "mobile":"9876543210",
+    "address":"Pullur,Chittoor(dist),A.P."
+  },
+  "career":{
+    "info":"To ensue a highly profitable career, seeking for a challenging job and healthy work environment where I can utilize my skills, experience and knowledge efficiently for organizational goal.Hope this will help you,"
+
+  },
+  "education":[
+    {
+      "course":"MCA",
+      "college":"SVPCET,Puttur",
+      "data":["Year of Passing:2017-20  ","percentage:94.2%"]
+    },
+    {
+      "course":"B.Sc(computers)",
+      "college":"Vignana sudha degree college,Chittoor",
+      "data":["Year of Passing:2014-17  ","percentage:89.8%"]
+    },
+    {
+      "course":"Intermediate(M.E.C)",
+      "college":"Sri vignan Jr college,Chittoor",
+      "data":["Year of Passing:2012-14  ","percentage:94.8%"]
+    },
+    {
+      "course":"S.S.C",
+      "college":"Z.P.High School,Pullur",
+      "data":["Year of Passing:2011-12  ","percentage:92%"]
+    }
+
+  ]
+}
